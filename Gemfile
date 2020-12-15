@@ -62,4 +62,4 @@ gem 'active_hash'
 
 gem 'pry-rails'
 
-gem 'rename'
+gem 'uglifier'
